@@ -1,1 +1,2 @@
-print("ola mundo krl aqui é fogão!!!!")
+print ("ola mundo aqui é fogão!!!!")
+print ("faz o basico que é sucesso, nem todos fazem o basico...")
