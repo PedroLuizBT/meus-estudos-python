@@ -1,3 +1,2 @@
 # meus-estudos-python
-ola-seu-bananao-fresco-do-krl
-//print f teu pai de calcinha// ("taca a mae pra ver se quica")
+So fazendo um teste pra ver como funciona o VScode, o Git e o GitHub... Não levem em consideração.
