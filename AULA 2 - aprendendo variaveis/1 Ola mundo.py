@@ -1,1 +1,1 @@
-print('ola' + ' 5')
+print('O meu número favorito é ' + '70')

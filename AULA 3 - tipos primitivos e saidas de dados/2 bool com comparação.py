@@ -1,5 +1,5 @@
-idade = int(input('Qual a sua idade?'))
+idade = int(input('Quantos anos você tem?'))
 maior_idade = idade >= 18
 
-print('sua idade é:', idade)
+print('Você tem {} anos.'.format(idade))
 print('Você é maior de idade?', maior_idade)

@@ -6,7 +6,7 @@ total = valor_do_item * qtd_itens_carrinho
 frete = total >= 100.00
 
 print("O seu nome é:", nome, type(nome))
-print("A quantidade de itens no carrinho é:", qtd_itens_carrinho, type(qtd_itens_carrinho))
-print("O valor do item é:", valor_do_item, type(valor_do_item))
-print("O total da compra é:", total, type(total))
+print("Tem {} itens no carrinho.".format(qtd_itens_carrinho), type(qtd_itens_carrinho))
+print("O valor do item é {} reais:".format(valor_do_item), type(valor_do_item))
+print("O total da compra é {} reais.".format(total), type(total))
 print("Você tem frete grátis?", frete, type(frete))
